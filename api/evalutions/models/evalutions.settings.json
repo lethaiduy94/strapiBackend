@@ -1,0 +1,38 @@
+{
+  "kind": "collectionType",
+  "collectionName": "evalutions",
+  "info": {
+    "name": "evalutions",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "code": {
+      "type": "integer"
+    },
+    "plan": {
+      "type": "integer"
+    },
+    "design": {
+      "type": "integer"
+    },
+    "presentation": {
+      "type": "integer"
+    },
+    "visitor": {
+      "type": "string"
+    },
+    "comment": {
+      "type": "richtext"
+    },
+    "student": {
+      "model": "students",
+      "via": "evalutions"
+    }
+  }
+}
