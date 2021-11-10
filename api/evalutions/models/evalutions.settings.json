@@ -31,8 +31,8 @@
       "type": "richtext"
     },
     "student": {
-      "model": "students",
-      "via": "evalutions"
+      "via": "evalutions",
+      "model": "students"
     }
   }
 }
