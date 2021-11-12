@@ -2,7 +2,8 @@
   "collectionName": "components_total_totals",
   "info": {
     "name": "total",
-    "icon": "atom"
+    "icon": "atom",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -19,6 +20,9 @@
       "type": "integer"
     },
     "communication": {
+      "type": "integer"
+    },
+    "total_score": {
       "type": "integer"
     }
   }
