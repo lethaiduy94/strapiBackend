@@ -40,8 +40,10 @@
       "via": "student",
       "collection": "evalutions"
     },
-    "birthplace": {
-      "type": "string"
+    "total_scores": {
+      "type": "component",
+      "repeatable": false,
+      "component": "total.total"
     }
   }
 }

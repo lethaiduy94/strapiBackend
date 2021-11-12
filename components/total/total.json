@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_total_totals",
+  "info": {
+    "name": "total",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "integer"
+    },
+    "plan": {
+      "type": "integer"
+    },
+    "design": {
+      "type": "integer"
+    },
+    "presentation": {
+      "type": "integer"
+    },
+    "communication": {
+      "type": "integer"
+    }
+  }
+}

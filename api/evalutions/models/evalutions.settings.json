@@ -33,6 +33,12 @@
     "student": {
       "via": "evalutions",
       "model": "students"
+    },
+    "communication": {
+      "type": "integer"
+    },
+    "comment_2": {
+      "type": "richtext"
     }
   }
 }
