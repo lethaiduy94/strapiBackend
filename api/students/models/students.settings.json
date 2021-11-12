@@ -22,7 +22,7 @@
     },
     "group": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "avatar": {
       "model": "file",
