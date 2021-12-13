@@ -45,7 +45,7 @@
       "repeatable": false,
       "component": "total.total"
     },
-    "ill_img": {
+    "production_img": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
