@@ -1,0 +1,8 @@
+{
+    "provider" : "cloudinary",
+    "providerOptions": {
+        "cloud_name" : "strapiupload",
+        "api_key" : "825421142793572",
+        "api_secret":"0fSoW427SRBjiZRutoNSoq87QvY"
+    }
+}
