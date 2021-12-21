@@ -57,10 +57,7 @@
       "required": false,
       "pluginOptions": {}
     },
-    "job": {
-      "type": "string"
-    },
-    "talent": {
+    "title": {
       "type": "string"
     }
   }
