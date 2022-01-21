@@ -61,6 +61,10 @@
       "type": "string"
     },
     "total": {
+      "type": "integer",
+      "default": 0
+    },
+    "booth_number": {
       "type": "integer"
     }
   }
