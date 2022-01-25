@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_total_coordinates",
+  "info": {
+    "name": "Coordinate",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "x": {
+      "type": "integer"
+    },
+    "y": {
+      "type": "integer"
+    }
+  }
+}
