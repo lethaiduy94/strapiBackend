@@ -71,6 +71,11 @@
       "type": "component",
       "repeatable": false,
       "component": "total.coordinate"
+    },
+    "coordinate_mobile": {
+      "type": "component",
+      "repeatable": false,
+      "component": "total.coordinate"
     }
   }
 }
